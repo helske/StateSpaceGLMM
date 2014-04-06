@@ -1,9 +1,10 @@
-Package: glmmSS
-Type: Package
-Title: What the package does (short line)
-Version: 1.0
-Date: 2014-04-02
-Author: Who wrote it
-Maintainer: Who to complain to <yourfault@somewhere.net>
-Description: More about what it does (maybe more than one line)
-License: What license is it under?
+Package: StateSpaceGLMM
+Version: 0.1
+Date: 2014-04-05
+Title: Inference of Generalized Linear Mixed Models Using State Space Representation
+Author: Jouni Helske <jouni.helske@jyu.fi>
+Maintainer: Jouni Helske <jouni.helske@jyu.fi>
+Imports: KFAS, minqa
+Description: StateSpaceGLMM is a package for analysis of generalized linear mixed models via state 
+space approach.
+License: GPL (>= 2)

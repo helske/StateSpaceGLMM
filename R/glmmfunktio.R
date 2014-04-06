@@ -1,4 +1,3 @@
-
 glmm<-function(response.var, grouping.var, fixed.formula, random.formula, data, distribution, REML=TRUE, 
                init.random=NULL, init.dispersion=NULL, init.fixed=NULL, correlating.effects=TRUE,
                estimate.dispersion, return.model=FALSE,nsim=0, maxiter=50,...){
